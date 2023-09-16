@@ -17,12 +17,20 @@ was built to diversify areas in software engineering and computer science
 
 - [Red](#categories)
 - [White](#categories)
-- [Black/W](#categories)
+- [Black/White](#categories)
 
   ![Screen Shot 2023-09-16 at 3 50 54 AM](https://github.com/shifatcusec/cusecinfopage/assets/145038250/db82b6df-35bb-4062-b858-0f46000b999e)
 
 
 ## Excecutive Team
 
-- Director if tech: Anjali patel
+- Director: Anjali patel
+- Promotions Director: Jacob A
+- Events Director: Julie
+- Fianance Director: Richard
+- Tech Director: Shifat Ghazi
+
+## Upcoming Events
+
+
 
